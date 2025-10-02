@@ -10,6 +10,3 @@ Implementation of common design patterns in C++.
 - Abstract Factory - Family of related objects creation
 - Builder - Step-by-step object construction
 - Prototype - Object cloning
-
-**Structural Patterns**
-- Adapter - Interface compatibility wrapper
